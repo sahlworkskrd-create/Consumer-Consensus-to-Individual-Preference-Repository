@@ -30,3 +30,4 @@ The repository supports reproducible research through analytical scripts, prepro
 **Licence:** CC BY 4.0
 
 **Keywords:** Consumer Reviews, Rating Aggregation, Consumer Preferences, Retail Analytics, Machine Learning, Random Forest, Ensemble Learning, Recommender Systems.
+Zenodo DOI — Version 1.0.0 - https://doi.org/10.5281/zenodo.23238507
